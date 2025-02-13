@@ -11,3 +11,6 @@ Randomly generated 3D 29x29 (adjustable) maze game in which objective is to exit
 ![NPC Dialogue Image](./gameScreenshots/NPCdialogueSS.png)
 
 ![Pause Menu Image](./gameScreenshots/pausemenuSS.png)
+
+
+Files in GitHub are for the Build of the game project, full unity project files with prefabs & scenes too large
